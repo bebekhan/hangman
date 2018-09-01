@@ -38,7 +38,8 @@ Command-Line-HANGMAN was created by Benish Sarinelli, a software engineer in San
 ## Extension
 - ** With each incorrect attempt (wrong letter or full word) the ASKEE image is updated and displayed alongside countdown.
 This short clip displays the ASKEE image in the form of a list which is displayed with index at 0 being just the stand (start of game) and with each index the image adds the body parts until index 6 (end of game once complete):
-![](hmprogress.gif)
+
+![](testing.gif)
 
 
 - ** Guessing full words during the game is supported. If guessed incorrectly, the missed letters count is updated the same as with incorrect letters.
